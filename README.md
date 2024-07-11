@@ -1,0 +1,1 @@
+Introduction describing that the current project is kind of like a test practice run of the real thing lol. I have demonstrated more skills in The Odin Project than freeCodeCamp. P.S. Potential self-reflection at end of project.
